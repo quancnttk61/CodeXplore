@@ -1,0 +1,7 @@
+﻿  BaiTapLon.cpp
+C:\Users\Windows 10\Desktop\BaiTapLon\BaiTapLon\mylib.h(29,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Windows 10\Desktop\BaiTapLon\BaiTapLon\mylib.h(29,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Windows 10\Desktop\BaiTapLon\BaiTapLon\BaiTapLon.cpp(31,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Windows 10\Desktop\BaiTapLon\BaiTapLon\BaiTapLon.cpp(31,8): warning C4183: 'Food': missing return type; assumed to be a member function returning 'int'
+C:\Users\Windows 10\Desktop\BaiTapLon\BaiTapLon\BaiTapLon.cpp(187,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Windows 10\Desktop\BaiTapLon\BaiTapLon\BaiTapLon.cpp(204,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
